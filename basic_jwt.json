@@ -1,0 +1,22 @@
+{
+    "basic_jwt": {
+        "fresh": false,
+        "iat": 1656261149,
+        "jti": "be172475-1da5-4af7-b6bd-7f238cc7ffc2",
+        "type": "access",
+        "sub": 1,
+        "nbf": 1656261149,
+        "exp": 1656262049
+    },
+    "additional_claims": {
+        "fresh": false,
+        "iat": 1656266735,
+        "jti": "f70b73fa-39d6-4a8a-ba88-0998913dd4b4",
+        "type": "access",
+        "sub": 1,
+        "nbf": 1656266735,
+        "exp": 1656267635,
+        "aud": "some_audience",
+        "foo": "bar"
+    }
+}
